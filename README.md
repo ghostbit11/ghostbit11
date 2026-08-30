@@ -104,8 +104,6 @@ Google Dorks published on **Exploit-DB**.
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=ghostbit11&style=flat-square&color=2e8bc9)
-
 <sub>Open to product security, application security and VAPT roles.</sub>
 
 </div>
