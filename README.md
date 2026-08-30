@@ -7,8 +7,8 @@
 └─$ whoami --profile
 
   Rahul Parmar // Application & Product Security · VAPT · Vulnerability Research
-  role     : Product Security @ IBM  (Secure Release Review — Maximo App Suite)
-  focus    : AppSec · Offensive Security · Vulnerability Management · Blue Team
+  role     : Product Security & DevSecOps @ IBM  (Secure Release Review — Maximo App Suite)
+  focus    : AppSec · DevSecOps · Offensive Security · Vulnerability Management · Blue Team
   research : 4 CVEs · Hall of Fame @ Apple, UN, Dell, eBay · NCIIPC Top 15
   location : Gandhinagar, Gujarat, India
 ```
@@ -89,7 +89,7 @@ Google Dorks published on **Exploit-DB**.
 | Area | Coverage |
 |---|---|
 | **Offensive** | VAPT · Web / API / Mobile Pentesting · Red & Purple Teaming · Breach & Attack Simulation · VPN Testing · OWASP Top 10 · JWT / OAuth / Rate-Limit Bypass |
-| **Product Security** | SAST · DAST · SCA · Secure SDLC · Threat Modeling · CI/CD Security · SBOM · Container Security · Secure Release Review |
+| **Product Security / DevSecOps** | SAST · DAST · SCA · Container Scanning (Twistlock / Prisma Cloud) · Mend · OWASP ZAP · Secure SDLC · CI/CD Security · SBOM · OSS remediation · Secure Release Review |
 | **Vulnerability Management** | CVE Analysis · CVSS Scoring · PSIRT / PVR Workflows · Remediation Tracking · Executive Reporting |
 | **Detection & Response** | Threat Hunting · SIEM (Sentinel) · Defender for Endpoint · Sophos XDR · Azure WAF · Dark-Web Monitoring |
 | **Cloud & GRC** | AWS · Azure · Cloud Security Audits · ISO 27001 · SOC 2 · DPDP Act 2023 |
