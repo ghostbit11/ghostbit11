@@ -9,7 +9,7 @@ Earlier, red-team and VAPT delivery at **PwC** across banking, financial service
 
 On my own time I hunt bugs and report them responsibly.
 
-📍 Gandhinagar, Gujarat, India · 📄 [Résumé](https://ghostbit11.github.io/#resume) · 💼 [LinkedIn](https://www.linkedin.com/in/rahul-parmar31/) · ✉️ rahulparmar838@gmail.com
+📍 Gandhinagar, Gujarat, India · 🌐 [Portfolio](https://ghostbit11.github.io/) · 📄 [Résumé](https://ghostbit11.github.io/Rahul_Parmar_Resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/rahul-parmar31/) · ✉️ rahulparmar838@gmail.com
 
 ---
 
